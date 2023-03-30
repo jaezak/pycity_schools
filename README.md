@@ -21,3 +21,4 @@ module 4 homework
 * % overall passing (the percentage of students who passed math AND reading) 
 
 syntax taught in class exercises.
+3/30 percent passing math calculations
