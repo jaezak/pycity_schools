@@ -22,3 +22,11 @@ module 4 homework
 
 syntax taught in class exercises.
 3/30 percent passing math calculations
+
+5/1 
+major revisions- completely overlooked the starter code notebook during first attempt. starting to transcribe to the starter code notebook.
+- total students dataframe
+- per school summary
+
+5/4
+revisions to calculations such as overall passing rate. revised syntax using .groupby function in other calculations.
