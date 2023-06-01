@@ -30,3 +30,6 @@ major revisions- completely overlooked the starter code notebook during first at
 
 5/4
 revisions to calculations such as overall passing rate. revised syntax using .groupby function in other calculations.
+6/1
+revisions to school_summary dataframe.
+AskBCS assisted with syntax.
