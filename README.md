@@ -144,6 +144,4 @@ school_per_student_budget = [i/j for i,j in zip(school_budget,school_total_stude
 school_avg_math_score = list(school_summary.math_score.mean())
 school_avg_reading_score = list(school_summary.reading_score.mean())
 
-<<<<<<< HEAD
 
->>>>>>> aa425d1e4e333af3f21425fad1fa2e5cfa73baca
