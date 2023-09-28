@@ -8,29 +8,9 @@ You are the new Chief Data Scientist for your city's school district. In this ca
 
 As a first task, you've been asked to analyze the district-wide standardized test results. You'll be given access to every student's math and reading scores, as well as various information on the schools they attend. Your task is to aggregate the data to showcase obvious trends in school performance.
 
-### Before You Begin
-
-1. Create a new repository for this project called `pandas-challenge`. **Do not add this homework to an existing repository**.
-
-2. Clone the new repository to your computer.
-
-3. Inside your local Git repository, create a folder for this homework assignment and name it `PyCitySchools`.
-
-4. Add your Jupyter notebook to this folder. This will be the main script to run for analysis.
-
-5. Push these changes to GitHub or GitLab.
-
-### Files
-
-Download the following files to help you get started:
-
-[Module 4 Challenge files](https://static.bc-edx.com/data/dl-1-2/m4/lms/starter/Starter_Code.zip)
-
 ### Instructions
 
 Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
-
-**Hint:** Check out the sample solution called `PyCitySchools_starter.ipynb` located in the .zip file to review the desired format for this assignment.
 
 #### District Summary
 
@@ -166,12 +146,5 @@ school_avg_math_score = list(school_summary.math_score.mean())
 school_avg_reading_score = list(school_summary.reading_score.mean())
 
 <<<<<<< HEAD
-5/4
-revisions to calculations such as overall passing rate. revised syntax using .groupby function in other calculations.
-6/1
-revisions to school_summary dataframe.
-AskBCS assisted with syntax.
-created math score by grade and reading score by grade dataframes.
-6/12 revised calculations for total students, percentage passing math and percentage passing reading.
-=======
+
 >>>>>>> aa425d1e4e333af3f21425fad1fa2e5cfa73baca
