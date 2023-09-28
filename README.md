@@ -1,6 +1,5 @@
 <div id="bootcamp"><img style="display: none;" src="https://static.bc-edx.com/data/dl-1-2/m4/lms/img/banner.jpg" alt="lesson banner" />
 
-In this assignment, you’ll create and manipulate Pandas DataFrames to analyze school and standardized test data.
 
 ### Background
 
@@ -10,7 +9,7 @@ As a first task, you've been asked to analyze the district-wide standardized tes
 
 ### Instructions
 
-Using Pandas and Jupyter Notebook, create a report that includes the following data. Your report must include a written description of at least two observable trends based on the data.
+Using Pandas and Jupyter Notebook, create a report that includes the following data.
 
 #### District Summary
 
