@@ -34,3 +34,4 @@ revisions to calculations such as overall passing rate. revised syntax using .gr
 revisions to school_summary dataframe.
 AskBCS assisted with syntax.
 created math score by grade and reading score by grade dataframes.
+6/12 revised calculations for total students, percentage passing math and percentage passing reading.
